@@ -1,0 +1,13 @@
+,train images classification accuracy,test images classification accuracy
+Decision Tree I,1,0.3076923077
+Decision Tree II,1,0.3076923077
+Decision Tree III,0.4607454401,0.2153846154
+Random Forest I,1,0.4923076923
+Random Forest II,1,0.4461538462
+Random Forest III,1,0.4461538462
+Random Forest IV,0.8437747819,0.4
+PyTorch CNN I,0.07692307692,0.07692307692
+PyTorch CNN II,0.9095955591,0.4307692308
+PyTorch CNN III,0.7795400476,0.4615384615
+PyTorch CNN IV,1,0.5076923077
+PyTorch CNN V,0.8865979381,0.6153846154
